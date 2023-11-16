@@ -814,7 +814,7 @@ const slider = function () {
 
 // async function loadNames(){
 //   const response = await fetch('https://restcountries.com/v2/name/portugal');
-//     const names = await response.json();
+//   const names = await response.json();
 //     console.log(response);
 
 // // var a =[1,2,3,4,5];
@@ -829,7 +829,6 @@ const slider = function () {
    
 // function test(x){
 //   console.log(x);
-
 
 
 //   console.log(x[0].name);
@@ -907,6 +906,7 @@ const slider = function () {
 //   }
 
 // })
+
 //abcde.forEach(x =>console.log("foreach loop"+ x));
 
 //array methods
